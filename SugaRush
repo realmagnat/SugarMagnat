@@ -1,0 +1,10 @@
+{
+    "IsEnable": false,
+    "Langs": [37,28],
+    "Tzs": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Linkurls": 
+    [ 
+          { "Lg":37, "Link": ""},
+          { "Lg":28, "Link": ""}
+    ]
+ }
